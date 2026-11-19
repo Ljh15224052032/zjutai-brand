@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="225 357 811 528" role="img" aria-labelledby="title">
+  <title id="title">ZJUT AI logo (white lettering)</title>
+  <defs>
+    <linearGradient id="monogram-slash-gradient" gradientUnits="userSpaceOnUse" x1="590.35" y1="694.1" x2="693.9" y2="468.88">
+      <stop offset="0" stop-color="#1782FD"/>
+      <stop offset="0.16" stop-color="#3F8CFD"/>
+      <stop offset="0.36" stop-color="#6D98FC"/>
+      <stop offset="0.65" stop-color="#A7A2FA"/>
+      <stop offset="0.86" stop-color="#C9A4F9"/>
+      <stop offset="1" stop-color="#D8A6FA"/>
+    </linearGradient>
+    <linearGradient id="wordmark-a-slash-gradient" gradientUnits="userSpaceOnUse" x1="893.85" y1="880.81" x2="911.55" y2="849.48">
+      <stop offset="0" stop-color="#138DFE"/>
+      <stop offset="0.16" stop-color="#4790FC"/>
+      <stop offset="0.36" stop-color="#7698FD"/>
+      <stop offset="0.65" stop-color="#B39DFC"/>
+      <stop offset="0.86" stop-color="#D7A5FA"/>
+      <stop offset="1" stop-color="#D4A7FA"/>
+    </linearGradient>
+  </defs>
+  <g id="monogram" fill="#FDFDFD">
+    <path id="monogram-z" d="M 486.5 360.9 H 694.3
+         C 706.3 360.9 715.7 370.4 715.7 382
+         C 715.7 387.5 713.6 393.2 709.2 398.5
+         L 463.89 668.31 Q 461.1 672 456.8 672 H 421.8
+         C 416.8 672 414.7 670 414.7 663.2
+         C 414.7 655.6 417.0 648.3 421.14 642.29
+         L 636.14 406.23 H 440
+         C 445.5 382.7 463 362.1 486.5 360.9 Z"/>
+    <path id="monogram-upright" d="M 821.5 389.7 Q 827.9 389.7 827.9 396 V 665.7
+         Q 827.9 672.1 822.2 672.1 H 786.5 Q 780.7 672.1 780.7 666.1 V 434
+         C 780.7 410.1 796.8 390.5 821.5 389.7 Z"/>
+    <path id="monogram-slash" fill="url(#monogram-slash-gradient)" d="M 698.49 488.05
+         C 704.5 480.2 714.2 478.4 722.8 482.2
+         C 735.9 487 737.8 502.7 729.8 512.91
+         L 589.62 667.65 Q 586.6 672 581.6 672 H 544.3
+         Q 536 672 539.56 665.57 Z"/>
+  </g>
+  <g id="wordmark" fill="#FDFDFD">
+    <path id="wordmark-z" d="M 230.4 780.8 H 309.9 V 791.77 L 248.32 867.1 H 310.9 V 879.7
+         H 229.4 V 868.88 L 291.11 793.73 H 230.6 Z"/>
+    <path id="wordmark-j" d="M 444.1 780.8 H 457.5 V 834.8
+         C 457.5 864.7 446.1 880.7 422.4 880.7
+         C 409.8 880.7 399 875.5 389.8 866.4
+         L 397.3 857.6
+         C 405 864.2 412.4 867.8 421.1 867.8
+         C 437 867.8 444.1 856.2 444.1 835.1 Z"/>
+    <path id="wordmark-u" d="M 542.4 780.7 H 556.1 V 834.9
+         C 556.1 856 566.6 868 584.8 868
+         C 603 868 613.4 856 613.4 834.9 V 780.7 H 627.3 V 835.4
+         C 627.3 864.4 610.4 880.9 584.8 880.9
+         C 559.3 880.9 542.4 864.4 542.4 835.4 Z"/>
+    <path id="wordmark-t" d="M 703.4 780.7 H 788.7 V 793.9 H 753.3 V 879.7 H 739.1 V 793.9
+         H 703.4 Z"/>
+    <path id="wordmark-a" d="M 890.7 780.7 H 904.34 L 948.3 879.7 H 933.3 L 897.13 797.99
+         L 860.59 879.7 H 845.51 Z"/>
+    <path id="wordmark-i" d="M 1018 780.7 H 1031.7 V 879.7 H 1018 Z"/>
+    <path id="wordmark-a-slash" fill="url(#wordmark-a-slash-gradient)" d="M 906.03 846.79 Q 907.14 844.98 908.07 847.36
+         L 911.83 855.69 Q 912.52 857.18 911.62 858.26
+         L 901.2 879.7 H 889.32 Z"/>
+  </g>
+</svg>
