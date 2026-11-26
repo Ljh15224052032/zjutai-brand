@@ -1,21 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="216 355 826 537" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81 220 1096 807" role="img" aria-labelledby="title">
   <title id="title">ZJUT AI logo (black lettering)</title>
   <defs>
     <linearGradient id="monogram-slash-gradient" gradientUnits="userSpaceOnUse" x1="566.52" y1="694.63" x2="714.39" y2="472.51">
-      <stop offset="0" stop-color="#006AFB"/>
-      <stop offset="0.16" stop-color="#0070FB"/>
-      <stop offset="0.36" stop-color="#3878FA"/>
-      <stop offset="0.65" stop-color="#7F78F7"/>
-      <stop offset="0.86" stop-color="#AE74F7"/>
-      <stop offset="1" stop-color="#BF6EF8"/>
+      <stop offset="0" stop-color="#1A87FF"/>
+      <stop offset="1" stop-color="#DDAEFF"/>
     </linearGradient>
     <linearGradient id="wordmark-a-slash-gradient" gradientUnits="userSpaceOnUse" x1="882.46" y1="887.84" x2="910.76" y2="848.87">
-      <stop offset="0" stop-color="#036DF9"/>
-      <stop offset="0.16" stop-color="#006EF6"/>
-      <stop offset="0.36" stop-color="#3376FC"/>
-      <stop offset="0.65" stop-color="#8A70F7"/>
-      <stop offset="0.86" stop-color="#AD72F6"/>
-      <stop offset="1" stop-color="#B368F4"/>
+      <stop offset="0" stop-color="#1A87FF"/>
+      <stop offset="1" stop-color="#DDAEFF"/>
     </linearGradient>
   </defs>
   <g id="monogram" fill="#000000">
